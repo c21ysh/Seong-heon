@@ -13,6 +13,7 @@ public class MyClass {
 		
 		
 		System.out.println("Hellow");
+		System.out.println("1000");
 		System.out.println(myNum);
 		System.out.println(myFloatNum);
 		System.out.println(myLetter);
